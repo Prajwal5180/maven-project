@@ -1,3 +1,3 @@
 Welcome to Intellipaat...
 
-I am Prajwal Kumar, I will be your DevOps Instructor. 
+I am Spektra systems, I will be your DevOps Instructor. 
